@@ -37,17 +37,19 @@ Didn't just pick cool-sounding technologies – assembled one of the best AI too
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="50" height="50"/>
+<img src="./Images/chromadb icon.png" width="50" height="50"/>  
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50"/>
 <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="50" height="50"/>
 <img src="https://python.langchain.com/img/brand/wordmark.png" width="80" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="50" height="50"/>
+<img src="./Images/openrouter icon.png" width="50" height="50"/>    
 </div>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="20" height="20"/> **Python**: Because life's too short for JavaScript (just kidding, JS fans!)
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="20" height="20"/> **FastAPI**: Lightning-fast backend that makes Usain Bolt jealous
 
-🗄️ **ChromaDB**: Vector magic that finds needles in haystacks
+<img src="./Images/chromadb icon.png" width="20" height="20"/> **ChromaDB**: Vector magic that finds needles in haystacks
 
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="20" height="20"/> **HuggingFace Embeddings**: The secret sauce for understanding your docs
 
@@ -55,7 +57,7 @@ Didn't just pick cool-sounding technologies – assembled one of the best AI too
 
 <img src="https://python.langchain.com/img/brand/wordmark.png" width="40" height="20"/> **LangChain**: The Swiss Army knife of language models
 
-🌐 **OpenRouter**: Your gateway to AI model paradise
+<img src="./Images/openrouter icon.png" width="20" height="20"/>  **OpenRouter**: Your gateway to AI model paradise
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="20" height="20"/> **JWT**: Digital passports that actually work
 
@@ -121,3 +123,58 @@ Ready to contribute? I am always looking for fellow code warriors:
 ---
 
 *Built with ❤️ and just the right amount of controlled chaos* 🎭
+
+---
+
+## 📸 Gallery
+
+<div align="center">
+
+### 🔐 **Authentication & Access Control**
+<img src="./Images/Login%20Screen.png" width="500" alt="Secure Login Interface"/>
+
+*Role-based authentication ensures users only access their authorized data*
+
+---
+
+### 💬 **Department-Specific Chat Interfaces**
+
+| General Department | Finance Department | C-Level Executive |
+|:---:|:---:|:---:|
+| <img src="./Images/RBAC%20CHT%20interface%20for%20general.png" width="280" alt="General Department Chat Interface"/> | <img src="./Images/RBAC%20CHT%20interface%20for%20finance.png" width="280" alt="Finance Department Chat Interface"/> | <img src="./Images/RBAC%20CHT%20interface%20for%20c-level%20(example).png" width="280" alt="C-Level Executive Chat Interface"/> |
+| **General Access** | **Finance Access** | **Executive Access** |
+| Standard queries & responses | Financial data & insights | Strategic & comprehensive view |
+
+---
+
+### 🎯 **Smart Role-Based Responses**
+
+<details>
+<summary><strong>🏢 C-Level Executive Responses</strong> (Click to expand)</summary>
+<br>
+<img src="./Images/RoleFlow%20Response%20for%20C-level.png" width="600" alt="C-Level Executive Response"/>
+<br><br>
+<em>Comprehensive, strategic insights with cross-departmental data access</em>
+</details>
+
+<details>
+<summary><strong>⚙️ Engineering Department Responses</strong> (Click to expand)</summary>
+<br>
+
+| Technical Query Response | Detailed Engineering Data |
+|:---:|:---:|
+| <img src="./Images/RoleFlow%20Response%20for%20eng%20dept%20-1.png" width="400" alt="Engineering Response 1"/> | <img src="./Images/RoleFlow%20Response%20for%20eng%20dept%20-2.png" width="400" alt="Engineering Response 2"/> |
+| **Quick Technical Answers** | **In-Depth Engineering Insights** |
+
+<em>Role-specific technical information tailored for engineering teams</em>
+</details>
+
+---
+
+### 🚀 **Key Features Demonstrated**
+- ✅ **Secure Authentication** - Role verification before access
+- ✅ **Department-Specific UI** - Tailored interfaces for different roles  
+- ✅ **Contextual Responses** - Answers filtered by user permissions
+- ✅ **Scalable Architecture** - Supports multiple departments seamlessly
+
+</div>

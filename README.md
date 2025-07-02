@@ -4,7 +4,7 @@
 
 Ever tried getting data from another department and felt like you were negotiating a peace treaty? 🕊️ **RoleFlow Chat** is here to end the corporate data wars! This isn't just another chatbot – it's your personal AI assistant that knows exactly what you're allowed to see and serves it up faster than your morning coffee ☕
 
-## 🎯 The Problem We're Crushing
+## 🎯 The Problem
 
 Picture this: You need sales data for your quarterly report, but Steve from Sales is on vacation 🏖️, Karen from Finance is in meetings all day 📅, and IT says "have you tried turning it off and on again?" 🔄
 

@@ -110,7 +110,7 @@ Massive shoutout to [CodeBasics](https://codebasics.io/challenges/resume-project
 
 ## 🌟 Want to Join the Revolution?
 
-Love what you see? **GIVE me a star!** ⭐ 
+Love what you see? **STAR would be appreciated** ⭐ 
 
 Ready to contribute? I am always looking for fellow code warriors:
 1. Fork this bad boy 🍴
